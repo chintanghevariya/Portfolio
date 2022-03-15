@@ -3,6 +3,8 @@
 <p align="center">
   <h1 align="center">Developer's Portfolio ✨</h1>
 
+  <img src="/assets/img/portfolio.png"></img>
+
   <p align="center">
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
     <a href="https://chintanghevariya.github.io/home">chintanghevariya.github.io/home</a>
