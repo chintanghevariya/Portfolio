@@ -1,4 +1,4 @@
-<!-- PROJECT LOGO -->
+<!-- PROJECT LOGO
 <br />
 <p align="center">
   <h1 align="center">Developer's Portfolio ✨</h1>
@@ -11,12 +11,12 @@
     <br />
     <a href="https://chintanghevariya.github.io">About Me</a>
   </p>
-</p>
+</p> -->
 
 [![Site preview](/public/portfolio.png)](https://chintanghevariya.github.io)
 
 
-## Table of Contents
+<!-- ## Table of Contents
 
 - [Technology Stack 🛠️](#technology-stack-)
 - [Structure ⚓](#structure-)
@@ -128,4 +128,4 @@ Facing issues? Feel free to contact at hashirshoaeb@gmail.com.
 
 ## Showcase 🚀
 
-Have you changed something in the code to create your own version? Feel free to share with me, I will list them in this space.
+Have you changed something in the code to create your own version? Feel free to share with me, I will list them in this space. -->
