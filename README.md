@@ -13,7 +13,7 @@
   </p>
 </p> -->
 
-[![Site preview](/public/portfolio.png)](https://chintanghevariya.github.io)
+[![Site preview]
 
 
 <!-- ## Table of Contents
