@@ -41,8 +41,10 @@ const about = {
   imageSize: 375,
   message:
     "My name is Chintan Ghevariya. I’m a graduate of 2022 from George Brown College at Toronto with a degree in Advanced Diploma as a Computer programming and analyst. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
-  resume: "https://docs.google.com/document/d/1cQLnZrDXjnZw1uplCtY5sVxWnkxnulkHdmrX5TjdPLA/edit?usp=sharing",
-  cover_letter: "https://docs.google.com/document/d/1ONQ45WrMNxD5XCaOSBGVoLUkHeRtW_pFSV7Mi4S_T0E/edit?usp=sharing" 
+  resume: "https://drive.google.com/file/d/1JsbwZh3_YqX48HKIgdKimGTYabbGOsjt/view?usp=sharing",
+  cover_letter: "https://drive.google.com/file/d/1063bHn_YTATU4hk6P0vl-HDg_RL60vK1/view?usp=sharing" ,
+  academic_credentials : "https://drive.google.com/file/d/1EBkGleuCBYelzsw_YfM1qz5gOY4iG2mb/view?usp=sharing",
+  capstone_project : "https://drive.google.com/file/d/19SeufpW3sTzI9o7DBMlvjGrsPoQDOTzi/view?usp=sharing"
 };
 
 
@@ -50,7 +52,7 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "chintanghevariya", 
-  reposLength: 4,
+  reposLength: 6,
   specificRepos: [],
 };
 

@@ -39,7 +39,9 @@ const Home = React.forwardRef((props, ref) => {
           message={about.message}
           link={about.imageLink}
           imgSize={about.imageSize}
-          resume={about.resume}
+          capstone_project={about.capstone_project}
+          cover_letter={about.cover_letter}
+          academic_credentials={about.academic_credentials}
         />
       )}
       {
