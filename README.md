@@ -9,7 +9,7 @@
     <a href="https://chintanghevariya.github.io/portfolio/">chintanghevariya.github.io/</a>
     <br />
     <br />
-    <a href="https://chintanghevariya.github.io">About Me</a>
+    <a href="https://chintanghevariya.github.io/portfolio/">About Me</a>
   </p>
 </p>
 
