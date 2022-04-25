@@ -116,16 +116,20 @@ const getInTouch = {
 };
 
 const experiences = {
-  show: false,
+  show: true,
   heading: "Experiences",
   data: [
     {
       role: 'Web Developer Intern',
       companylogo: require('../assets/img/logo-blue.png'),
-      date: 'June 2018 – Jan 2019',
+      date: 'May 2017 – Aug 2017',
+    },
+    {
+      role: 'Web Developer',
+      companylogo: require('../assets/img/logo-blue.png'),
+      date: 'Sept 2017 – Jan 2019',
     }
   ]
 }
-
 
 export { navBar, mainBody, about, repos, skills, leadership, getInTouch, experiences };
